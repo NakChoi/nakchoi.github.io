@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Nak's Dev"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "최낙준"
+name                     : "Nak Jun Choi"
 description              : "안녕하세요. 개발자 최낙준입니다."
 url                      : "https://nakchoi.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
